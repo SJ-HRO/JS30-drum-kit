@@ -49,7 +49,14 @@ El objetivo es evaluar la capacidad para comprender, adaptar e implementar lógi
 
 3. Abrir el archivo `index.html` en el navegador (doble clic o usando alguna extensión como Live Server).
 
+## Deploy
+
+Deploy hecho en la url:
+
+https://sj-hro.github.io/JS30-drum-kit/
+
 ## Autor
 
 Juan José Aráuz
+
 
