@@ -47,10 +47,9 @@ El objetivo es evaluar la capacidad para comprender, adaptar e implementar lógi
    cd javascript30-drum-kit
    ```
 
-3. Abrir el archivo `index.html` en tu navegador (doble clic o usando alguna extensión como Live Server).
-
-No se requiere instalación de dependencias.
+3. Abrir el archivo `index.html` en el navegador (doble clic o usando alguna extensión como Live Server).
 
 ## Autor
 
 Juan José Aráuz
+
