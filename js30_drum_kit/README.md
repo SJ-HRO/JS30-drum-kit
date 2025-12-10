@@ -2,12 +2,11 @@
 
 ## Descripción
 
-Este proyecto es una réplica del reto **"JavaScript Drum Kit"** del curso [JavaScript30](https://javascript30.com/).
-Permite tocar una batería virtual utilizando las teclas del teclado o haciendo clic sobre los pads en pantalla.
+Batería virtual del curso [JavaScript30](https://javascript30.com/).
 
 ## Objetivo del reto
 
-Practicar el manejo del DOM y eventos de teclado / ratón en JavaScript, reproduciendo sonidos y aplicando estilos dinámicamente en respuesta a las acciones del usuario.
+El objetivo es evaluar la capacidad para comprender, adaptar e implementar lógica en JavaScript sin el uso de frameworks, así como mostrar dominio en control de versiones, documentación técnica y despliegue web.
 
 ## Tecnologías utilizadas
 
@@ -25,36 +24,30 @@ Practicar el manejo del DOM y eventos de teclado / ratón en JavaScript, reprodu
 ├─ js/
 │  └─ app.js
 ├─ sounds/
-│  └─ *.wav
-└─ screenshots/
-   └─ drumkit-1.png
+   └─ *.wav
 ```
 
 ## Capturas de pantalla
 
-Agrega aquí tus capturas o GIF de funcionamiento, por ejemplo:
+<img width="1466" height="744" alt="image" src="https://github.com/user-attachments/assets/7cf7c4d0-b3df-479a-9d64-999b5942e7b6" />
+<img width="1301" height="448" alt="image" src="https://github.com/user-attachments/assets/294e7fce-33af-4502-82cb-28b818c36be9" />
 
-```markdown
-![Drum Kit funcionando](screenshots/drumkit-1.png)
-```
 
 ## Instrucciones para ejecutar localmente
 
-1. Clonar este repositorio:
+1. Clonar repositorio:
 
    ```bash
    git clone https://github.com/SJ-HRO/javascript30-drum-kit.git
    ```
 
-2. Entrar en la carpeta del proyecto:
+2. Entrar en la siguiente carpeta:
 
    ```bash
    cd javascript30-drum-kit
    ```
 
-3. Abrir el archivo `index.html` en tu navegador (doble clic o usando alguna extensión como Live Server).
-
-No se requiere instalación de dependencias.
+3. Abrir el archivo `index.html` en el navegador (LiveServer recomendado :D)
 
 ## Deploy
 
